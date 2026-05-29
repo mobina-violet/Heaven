@@ -30,6 +30,4 @@ A modern furniture store focused on clean aesthetics, smooth interactions, and r
 * Reusable React components
 * Organized state management
 
----
 
-Made with ❤️ by Mobina
